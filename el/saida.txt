@@ -1,0 +1,117 @@
+Para 10000 testes e f=0.10 a funcao retornou 934 falhas
+
+
+Agora umas eleicoes pra ver a mecanica
+
+
+
+100 simulacoes
+    N = 10000 votantes
+    Margem A = 0.51
+    Taxa de erro f = 0.01
+    Minimo para vencer = 5001
+
+[   1 de  100]: 5018 votos em A. Margem 0.50
+[   2 de  100]: 5048 votos em A. Margem 0.50
+[   3 de  100]: 5021 votos em A. Margem 0.50
+[   4 de  100]: 5113 votos em A. Margem 0.51
+[   5 de  100]: 5049 votos em A. Margem 0.50
+[   6 de  100]: 5156 votos em A. Margem 0.52
+[   7 de  100]: 5137 votos em A. Margem 0.51
+[   8 de  100]: 5011 votos em A. Margem 0.50
+[   9 de  100]: 5070 votos em A. Margem 0.51
+[  10 de  100]: 5040 votos em A. Margem 0.50
+[  11 de  100]: 5063 votos em A. Margem 0.51
+[  12 de  100]: 5054 votos em A. Margem 0.51
+[  13 de  100]: 5005 votos em A. Margem 0.50
+[  14 de  100]: 5051 votos em A. Margem 0.51
+[  15 de  100]: 5063 votos em A. Margem 0.51
+[  16 de  100]: 5065 votos em A. Margem 0.51
+[  17 de  100]: 5109 votos em A. Margem 0.51
+[  18 de  100]: 5124 votos em A. Margem 0.51
+[  19 de  100]: 5030 votos em A. Margem 0.50
+[  20 de  100]: 5084 votos em A. Margem 0.51
+[  21 de  100]: 5062 votos em A. Margem 0.51
+[  22 de  100]: 5144 votos em A. Margem 0.51
+[  23 de  100]: 5033 votos em A. Margem 0.50
+[  24 de  100]: 5076 votos em A. Margem 0.51
+[  25 de  100]: 5134 votos em A. Margem 0.51
+[  26 de  100]: 5123 votos em A. Margem 0.51
+[  27 de  100]: 5078 votos em A. Margem 0.51
+[  28 de  100]: 5128 votos em A. Margem 0.51
+[  29 de  100]: 5087 votos em A. Margem 0.51
+[  30 de  100]: 5133 votos em A. Margem 0.51
+[  31 de  100]: 5129 votos em A. Margem 0.51
+[  32 de  100]: 5202 votos em A. Margem 0.52
+[  33 de  100]: 4983 votos em A. Margem 0.50
+[ ERRO! ]: 4983 votos em A. Margem 0.50
+[  34 de  100]: 5042 votos em A. Margem 0.50
+[  35 de  100]: 5092 votos em A. Margem 0.51
+[  36 de  100]: 5086 votos em A. Margem 0.51
+[  37 de  100]: 5119 votos em A. Margem 0.51
+[  38 de  100]: 5069 votos em A. Margem 0.51
+[  39 de  100]: 5133 votos em A. Margem 0.51
+[  40 de  100]: 5081 votos em A. Margem 0.51
+[  41 de  100]: 5186 votos em A. Margem 0.52
+[  42 de  100]: 5116 votos em A. Margem 0.51
+[  43 de  100]: 5121 votos em A. Margem 0.51
+[  44 de  100]: 5005 votos em A. Margem 0.50
+[  45 de  100]: 5028 votos em A. Margem 0.50
+[  46 de  100]: 5094 votos em A. Margem 0.51
+[  47 de  100]: 5040 votos em A. Margem 0.50
+[  48 de  100]: 5197 votos em A. Margem 0.52
+[  49 de  100]: 5124 votos em A. Margem 0.51
+[  50 de  100]: 5124 votos em A. Margem 0.51
+[  51 de  100]: 5047 votos em A. Margem 0.50
+[  52 de  100]: 5108 votos em A. Margem 0.51
+[  53 de  100]: 5153 votos em A. Margem 0.52
+[  54 de  100]: 5168 votos em A. Margem 0.52
+[  55 de  100]: 5110 votos em A. Margem 0.51
+[  56 de  100]: 5122 votos em A. Margem 0.51
+[  57 de  100]: 5059 votos em A. Margem 0.51
+[  58 de  100]: 5063 votos em A. Margem 0.51
+[  59 de  100]: 5039 votos em A. Margem 0.50
+[  60 de  100]: 5139 votos em A. Margem 0.51
+[  61 de  100]: 5189 votos em A. Margem 0.52
+[  62 de  100]: 5090 votos em A. Margem 0.51
+[  63 de  100]: 5106 votos em A. Margem 0.51
+[  64 de  100]: 5171 votos em A. Margem 0.52
+[  65 de  100]: 5056 votos em A. Margem 0.51
+[  66 de  100]: 5110 votos em A. Margem 0.51
+[  67 de  100]: 5048 votos em A. Margem 0.50
+[  68 de  100]: 5075 votos em A. Margem 0.51
+[  69 de  100]: 5078 votos em A. Margem 0.51
+[  70 de  100]: 5120 votos em A. Margem 0.51
+[  71 de  100]: 5185 votos em A. Margem 0.52
+[  72 de  100]: 5105 votos em A. Margem 0.51
+[  73 de  100]: 5144 votos em A. Margem 0.51
+[  74 de  100]: 5069 votos em A. Margem 0.51
+[  75 de  100]: 5049 votos em A. Margem 0.50
+[  76 de  100]: 5083 votos em A. Margem 0.51
+[  77 de  100]: 5112 votos em A. Margem 0.51
+[  78 de  100]: 5135 votos em A. Margem 0.51
+[  79 de  100]: 5186 votos em A. Margem 0.52
+[  80 de  100]: 5099 votos em A. Margem 0.51
+[  81 de  100]: 5144 votos em A. Margem 0.51
+[  82 de  100]: 5064 votos em A. Margem 0.51
+[  83 de  100]: 5120 votos em A. Margem 0.51
+[  84 de  100]: 5148 votos em A. Margem 0.51
+[  85 de  100]: 5116 votos em A. Margem 0.51
+[  86 de  100]: 5173 votos em A. Margem 0.52
+[  87 de  100]: 5167 votos em A. Margem 0.52
+[  88 de  100]: 5099 votos em A. Margem 0.51
+[  89 de  100]: 5129 votos em A. Margem 0.51
+[  90 de  100]: 5163 votos em A. Margem 0.52
+[  91 de  100]: 5178 votos em A. Margem 0.52
+[  92 de  100]: 5096 votos em A. Margem 0.51
+[  93 de  100]: 5100 votos em A. Margem 0.51
+[  94 de  100]: 5031 votos em A. Margem 0.50
+[  95 de  100]: 5153 votos em A. Margem 0.52
+[  96 de  100]: 5108 votos em A. Margem 0.51
+[  97 de  100]: 5055 votos em A. Margem 0.51
+[  98 de  100]: 4990 votos em A. Margem 0.50
+[ ERRO! ]: 4990 votos em A. Margem 0.50
+[  99 de  100]: 5106 votos em A. Margem 0.51
+[ 100 de  100]: 5075 votos em A. Margem 0.51
+Final com 2 erros. Margem = 0.02
+prob_erro() retornou 0.0200

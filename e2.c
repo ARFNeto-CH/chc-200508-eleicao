@@ -71,7 +71,7 @@ double  prob_erro(int N, double a, double f, int T)
 
 	printf("Final\n");
 	return 0.;
-};
+};	// porb_erro()
 
 /* devolve um real sorteado uniformemente no intervalo [0,1] */
 double sorteia_real()

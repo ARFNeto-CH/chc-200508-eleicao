@@ -15,12 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="saida.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="el.c">
+    <ClCompile Include="b.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
